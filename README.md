@@ -19,8 +19,8 @@ This project focuses on optimizing React performance by implementing input debou
 
 ## Installation and Setup
 
-1. Clone the repository: `git clone https://github.com/your-username/react-optimization-project.git`
-2. Navigate to the project directory: `cd react-optimization-project`
+1. Clone the repository: `git clone https://github.com/jaikrishnaverma-dev/debounce_search_functionality.git`
+2. Navigate to the project directory: `cd debounce_search_functionality`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and navigate to `http://localhost:3000` to access the application.
@@ -31,9 +31,7 @@ This project focuses on optimizing React performance by implementing input debou
 2. Notice how debounce functionality delays API calls until the user pauses typing.
 3. Experience optimized rendering and enhanced performance with reduced re-renders and API requests.
 
-## Credits
 
-This project was created by [Your Name]. Special thanks to [Any contributors or resources you'd like to mention].
 
 ## License
 
